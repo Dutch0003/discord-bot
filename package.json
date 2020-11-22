@@ -1,0 +1,24 @@
+{
+  "name": "mayflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.1",
+    "discord.js-commando": "^0.10.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.11",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "trello": "^0.10.0",
+    "winston": "^3.3.3",
+    "noblox.js": "^4.7.3",
+    "mongodb": "^3.6.1"
+  }
+}
